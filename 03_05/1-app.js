@@ -6,4 +6,5 @@ files.forEach(async (file) => {
     console.log(file);
     const data = await fs.readFile(file);
     console.log(data.toString())
+    
 });

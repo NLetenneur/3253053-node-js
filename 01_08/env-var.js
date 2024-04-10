@@ -1,8 +1,2 @@
-console.log('Username =', process.env.USERNAME)
-console.log('Email =', process.env.EMAIL);
-
-
-
-
-
-
+console.log("Username =", process.env.MYUSERNAME);
+console.log("Email =", process.env.EMAIL);
